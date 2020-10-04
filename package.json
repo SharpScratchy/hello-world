@@ -1,0 +1,23 @@
+{
+  "name": "@sharpscratchy/hello-world",
+  "version": "1.0.0",
+  "description": "Hello world!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharpScratchy/hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "SharpScratchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharpScratchy/hello-world/issues"
+  },
+  "homepage": "https://github.com/SharpScratchy/hello-world#readme"
+}
